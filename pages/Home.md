@@ -1,4 +1,4 @@
-- ### 👋   Hey there! I'm Felix Long, welcome here.
+- ### 👋   Hey there! I'm [[Felix Long]], welcome here.
 	- This is a notebook for recording my personal study life, mainly in Chinese.
 		- ✍️ 记录零星
 	- Unless otherwise stated, all those notes are licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
