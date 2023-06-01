@@ -1,1 +1,1 @@
-# logseq-notes
+pages/Home.md

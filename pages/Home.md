@@ -1,0 +1,9 @@
+- ### 👋   Hey there! I'm Felix Long, welcome here.
+	- This is a notebook for recording my personal study life, mainly in Chinese.
+		- ✍️ 记录零星
+	- Unless otherwise stated, all those notes are licensed under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+		- 如未特殊申明，笔记遵循「[署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)」协议。
+	- For infringement, please contact me deleted.
+		- 侵权，必删
+	- Contact me：sudorm9 AT gmail dot com
+- © 2023 longfei. Powered by [Logseq](https://logseq.com/) and [publish-spa](https://github.com/logseq/publish-spa).
