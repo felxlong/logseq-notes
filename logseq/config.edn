@@ -415,4 +415,5 @@
  :feature/enable-journals? false
  :feature/enable-whiteboards? false
  :feature/enable-flashcards? false
- :default-home {:page "Home"}}
+ :default-home {:page "Home"}
+ :publishing/all-pages-public? true}
