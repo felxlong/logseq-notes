@@ -5,5 +5,5 @@
 		- 如未特殊申明，笔记遵循「[署名-非商业性使用-相同方式共享 4.0 国际](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)」协议。
 	- For infringement, please contact me deleted.
 		- 侵权，必删
-	- Contact me：sudorm9 AT gmail dot com
-- © 2023 longfei. Powered by [Logseq](https://logseq.com/) and [publish-spa](https://github.com/logseq/publish-spa).
+	- Contact me：fexlong1 AT gmail dot com
+- © 2023 felix. Powered by [Logseq](https://logseq.com/) and [publish-spa](https://github.com/logseq/publish-spa).

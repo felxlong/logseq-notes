@@ -1,0 +1,16 @@
+- 链接失效，请联系我 🫡
+- #DB
+	- 微信公众号
+		- 腾讯数据库技术
+		- 阿里云瑶池数据库
+	- PolarDB 数据库内核月报 http://mysql.taobao.org/monthly/
+	- 大名鼎鼎的 MIT6.824 https://pdos.csail.mit.edu/6.824/
+	- https://github.com/pingcap/awesome-database-learning
+	- 博客
+		- tiancaiamao https://www.zenlife.tk/index
+		- Eric Fu https://ericfu.me/
+		- Alex Chi https://www.skyzh.dev/posts/
+		- Tenny Zhuang https://blog.zhuangty.com/
+- #OS
+	- jyy https://jyywiki.cn/
+-
